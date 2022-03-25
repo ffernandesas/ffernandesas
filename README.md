@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ## 💬 Onde me encontrar
 <p align="left">
-<a href="https://www.linkedin.com/in/ffernandesas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ffernandesas" height="30" width="40" /></a>
-<a href="https://instagram.com/fernandes_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandes_as" height="30" width="40" /></a>
-<a href= "malito:fabio.fernandesas@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ffernandesas/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ffernandesas" /></a>
+<a href="https://instagram.com/fernandes_as" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fernandes_as"/></a>
+<a href= "mailto:fabio.fernandesas@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   
 
 </p>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"  height="28" width="80"></a>
 </p>
 
 ### 🧰 Frameworks and bibliotecas
