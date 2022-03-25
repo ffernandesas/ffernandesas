@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 Learning Java, Dev Mobile, SQL
 
 
-## 💬 Onde me encontrar
+## 💬 Lets Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/ffernandesas/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ffernandesas" /></a>
 <a href="https://instagram.com/fernandes_as" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fernandes_as"/></a>
