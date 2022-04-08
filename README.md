@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## 🛠️ Ferramentas favoritas
+<!--## 🛠️ Ferramentas favoritas
 
 ### 👨‍💻 Linguagens
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-</p>
+</p>-->
 
 
 ##
