@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31A9DF&center=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31A9DF&center=true&width=1000&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)--!>
 
 <!--
 **ffernandesas/ffernandesas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
