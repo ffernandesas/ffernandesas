@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ## 💬 Lets Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/ffernandesas/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ffernandesas" /></a>
-<a href="https://instagram.com/fernandes_as" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fernandes_as"/></a>
-<a href= "mailto:fabio.fernandesas@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<!--<a href="https://instagram.com/fernandes_as" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fernandes_as"/></a>
+<a href= "mailto:fabio.fernandesas@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>--!>
   
 
 </p>
