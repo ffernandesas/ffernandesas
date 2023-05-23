@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 BI Analyst learning SQL, Python, Java, Dev Mobile
+- 🌱 BI Analyst learning SQL, Python, AI
 
 
 ## 💬 Lets Connect
